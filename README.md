@@ -1,11 +1,11 @@
-## 🏡 House Price Prediction using Linear Regression
+# 🏡 House Price Prediction using Linear Regression
 
 This project uses a Linear Regression model to predict house prices based on features from the [Kaggle House Prices dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
 
-## 📁 Dataset
+# 📁 Dataset
 Before running the notebook, make sure to upload `train.csv` (from the Kaggle dataset).  You will be prompted to upload the file during execution if using VS CODE.
 
-## 🚀 Workflow
+# 🚀 Workflow
 
 1. **Import Libraries**
 2. **Upload & Load Dataset**
@@ -19,7 +19,7 @@ Before running the notebook, make sure to upload `train.csv` (from the Kaggle da
 8. **Visualization**
    - Scatter plot of Actual vs Predicted prices
 
-## 📊 Model Performance
+# 📊 Model Performance
 The model outputs the following performance metrics:
 - **Mean Squared Error (MSE)**
 - **R² Score**: Coefficient of determination
